@@ -1,16 +1,21 @@
 package main
 
 import (
-	"fmt"
-	"github.com/gorilla/mux"
-	"github.com/gorilla/context"
-	"log"
-	"net/http"
+	"bufio"
+	"encoding/csv"
 	"encoding/json"
+	"fmt"
+	"io"
 	"io/ioutil"
-	"os"
-	"time"
+	"log"
 	"math"
+	"net/http"
+	"os"
+	"strconv"
+	"time"
+
+	"github.com/gorilla/context"
+	"github.com/gorilla/mux"
 )
 
 func main() {
@@ -19,7 +24,8 @@ func main() {
 
 func handleReq() {
 	r := mux.NewRouter()
-	r.HandleFunc("/sensors/cars", getCarSensorData(sendCarData)).Methods("GET", "OPTIONS")
+	r.HandleFunc("/sensors/cars", getCarSensorData(sendData)).Methods("GET", "OPTIONS")
+	r.HandleFunc("/sensors/microwave", getMicroWaveSensorData(sendData)).Methods("GET", "OPTIONS")
 	log.Fatal(http.ListenAndServe(":8080", r))
 }
 
@@ -36,7 +42,6 @@ func getCarSensorData(h http.HandlerFunc) http.HandlerFunc {
 		byteValue, _ := ioutil.ReadAll(content)
 		var objs interface{}
 		_ = json.Unmarshal([]byte(byteValue), &objs)
-
 
 		for _, obj := range objs.([]interface{}) {
 			for keyProp, valProp := range obj.(map[string]interface{}) {
@@ -56,8 +61,66 @@ func getCarSensorData(h http.HandlerFunc) http.HandlerFunc {
 	})
 }
 
+func getMicroWaveSensorData(h http.HandlerFunc) http.HandlerFunc {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		content, err := os.Open("data/10014_FFFFFFFF006eb624_Microwave-Door-Sensor.csv")
+		starttime := int64(-1)
+		if r.URL.Query().Get("starttime") != "" {
+			starttime, _ = strconv.ParseInt(r.URL.Query().Get("starttime"), 10, 64)
+		}
 
-func sendCarData(w http.ResponseWriter, r *http.Request) {
+		endtime := int64(math.MaxInt64)
+		if r.URL.Query().Get("starttime") != "" {
+			endtime, _ = strconv.ParseInt(r.URL.Query().Get("endtime"), 10, 64)
+		}
+
+		status := ""
+		if r.URL.Query().Get("status") != "" {
+			status = r.URL.Query().Get("status")
+		}
+
+		if err != nil {
+			fmt.Println(err)
+			http.Error(w, err.Error(), http.StatusBadRequest)
+			return
+		}
+		reader := csv.NewReader(bufio.NewReader(content))
+		defer content.Close()
+
+		type Door struct {
+			Dayofweek  int    `json:"dayofweek"`
+			Day        int    `json:"day"`
+			Month      int    `json:"month"`
+			Year       int    `json:"year"`
+			Doorstatus string `json:"doorstatus"`
+		}
+
+		var doors []Door
+		for {
+			line, error := reader.Read()
+			if error == io.EOF {
+				break
+			}
+			timestamp, _ := strconv.ParseInt(line[4], 10, 64)
+			if timestamp > int64(starttime) && timestamp < int64(endtime) {
+				if status == "" || line[12] == status {
+					doors = append(doors, Door{
+						Dayofweek:  int(time.Unix(timestamp, 0).Weekday()),
+						Day:        time.Unix(timestamp, 0).Day(),
+						Month:      int(time.Unix(timestamp, 0).Month()),
+						Year:       time.Unix(timestamp, 0).Year(),
+						Doorstatus: line[12],
+					})
+				}
+			}
+		}
+
+		context.Set(r, "objs", doors)
+		h.ServeHTTP(w, r)
+	})
+}
+
+func sendData(w http.ResponseWriter, r *http.Request) {
 	allData := context.GetAll(r)
 	objs := allData["objs"]
 	w.Header().Set("Access-Control-Allow-Origin", "*")

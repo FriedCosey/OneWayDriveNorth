@@ -1,0 +1,2 @@
+trigger,device_type,device_id,description,timestamp_ms,timestamp_iso,timestamp_excel,firmware,ipAddress,model,numberOfChildren,permitJoining,zbChannel,
+8,10031,LCGW-abc503a8005f1500,Presence Gateway,1574035200000,2019-11-18T00:00:00Z,11/18/2019 00:00:00,2.9.7.90,10.0.0.40,LCGW_People_Power_ESP,20,0,11,
