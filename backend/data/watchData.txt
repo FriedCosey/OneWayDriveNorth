@@ -1,0 +1,227 @@
+[
+    {
+        "stamp": 1579807020,
+        "duration": 6840,
+        "steps": 0,
+        "distance": 0,
+        "runstate": 0,
+        "walkstate": 0,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806960,
+        "duration": 60,
+        "steps": 14,
+        "distance": 11500,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806900,
+        "duration": 60,
+        "steps": 73,
+        "distance": 63093,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806840,
+        "duration": 60,
+        "steps": 121,
+        "distance": 45758,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806780,
+        "duration": 60,
+        "steps": 123,
+        "distance": 48416,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806720,
+        "duration": 60,
+        "steps": 122,
+        "distance": 46897,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806660,
+        "duration": 60,
+        "steps": 78,
+        "distance": 5390,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806600,
+        "duration": 60,
+        "steps": 109,
+        "distance": 35062,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806540,
+        "duration": 60,
+        "steps": 88,
+        "distance": 13058,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806480,
+        "duration": 60,
+        "steps": 9,
+        "distance": 7364,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806420,
+        "duration": 60,
+        "steps": 38,
+        "distance": 32840,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806360,
+        "duration": 60,
+        "steps": 123,
+        "distance": 48416,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806300,
+        "duration": 60,
+        "steps": 124,
+        "distance": 49944,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806240,
+        "duration": 60,
+        "steps": 116,
+        "distance": 38330,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806180,
+        "duration": 60,
+        "steps": 114,
+        "distance": 35286,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806120,
+        "duration": 60,
+        "steps": 114,
+        "distance": 35521,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806060,
+        "duration": 60,
+        "steps": 115,
+        "distance": 36730,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579806000,
+        "duration": 60,
+        "steps": 119,
+        "distance": 42502,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579805940,
+        "duration": 60,
+        "steps": 114,
+        "distance": 37267,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579805880,
+        "duration": 60,
+        "steps": 123,
+        "distance": 48797,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579805820,
+        "duration": 60,
+        "steps": 71,
+        "distance": 64801,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579805760,
+        "duration": 60,
+        "steps": 123,
+        "distance": 48092,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579805700,
+        "duration": 60,
+        "steps": 121,
+        "distance": 45970,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579805640,
+        "duration": 60,
+        "steps": 121,
+        "distance": 45758,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    },
+    {
+        "stamp": 1579805580,
+        "duration": 60,
+        "steps": 126,
+        "distance": 49656,
+        "runstate": 0,
+        "walkstate": 1,
+        "sleepstate": 0
+    }
+]

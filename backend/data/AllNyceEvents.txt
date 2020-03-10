@@ -1,0 +1,1871 @@
+[
+    {
+        "itemid": 8055,
+        "itemname": "nyce-w-0031",
+        "serialnumber": "ZBW0031",
+        "macaddress": "000D6F000409257F",
+        "modelid": 120,
+        "modelname": "NCZ-3041",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 39,
+        "subtypename": "Zigbee / Wall",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581625003.072,
+                "macaddress": "000D6F000409257F",
+                "event": 50,
+                "areaid": "39",
+                "areaname": "Party Room 1"
+            },
+            {
+                "stamp": 1581624856.346,
+                "macaddress": "000D6F000409257F",
+                "event": 48,
+                "areaid": "39",
+                "areaname": "Party Room 1"
+            },
+            {
+                "stamp": 1581624841.712,
+                "macaddress": "000D6F000409257F",
+                "event": 50,
+                "areaid": "39",
+                "areaname": "Party Room 1"
+            },
+            {
+                "stamp": 1581624341.202,
+                "macaddress": "000D6F000409257F",
+                "event": 48,
+                "areaid": "39",
+                "areaname": "Party Room 1"
+            },
+            {
+                "stamp": 1581624309.451,
+                "macaddress": "000D6F000409257F",
+                "event": 50,
+                "areaid": "39",
+                "areaname": "Party Room 1"
+            },
+            {
+                "stamp": 1581624307.563,
+                "macaddress": "000D6F000409257F",
+                "event": 48,
+                "areaid": "39",
+                "areaname": "Party Room 1"
+            },
+            {
+                "stamp": 1581624302.569,
+                "macaddress": "000D6F000409257F",
+                "event": 50,
+                "areaid": "39",
+                "areaname": "Party Room 1"
+            },
+            {
+                "stamp": 1581624297.593,
+                "macaddress": "000D6F000409257F",
+                "event": 48,
+                "areaid": "39",
+                "areaname": "Party Room 1"
+            },
+            {
+                "stamp": 1581624292.599,
+                "macaddress": "000D6F000409257F",
+                "event": 50,
+                "areaid": "39",
+                "areaname": "Party Room 1"
+            },
+            {
+                "stamp": 1581624289.369,
+                "macaddress": "000D6F000409257F",
+                "event": 48,
+                "areaid": "39",
+                "areaname": "Party Room 1"
+            }
+        ]
+    },
+    {
+        "itemid": 12432,
+        "itemname": "nyce-c-0589",
+        "serialnumber": "ZBC0589",
+        "macaddress": "000D6F000D6A1A98",
+        "modelid": 127,
+        "modelname": "NCZ-3011",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 44,
+        "subtypename": "Zigbee / Contact",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581624230.237,
+                "macaddress": "000D6F000D6A1A98",
+                "event": 48,
+                "areaid": "59",
+                "areaname": "Other Door"
+            },
+            {
+                "stamp": 1581624154.504,
+                "macaddress": "000D6F000D6A1A98",
+                "event": 49,
+                "areaid": "59",
+                "areaname": "Other Door"
+            },
+            {
+                "stamp": 1581618550.359,
+                "macaddress": "000D6F000D6A1A98",
+                "event": 48,
+                "areaid": "59",
+                "areaname": "Other Door"
+            },
+            {
+                "stamp": 1581611527.692,
+                "macaddress": "000D6F000D6A1A98",
+                "event": 48,
+                "areaid": "59",
+                "areaname": "Other Door"
+            },
+            {
+                "stamp": 1581611525.158,
+                "macaddress": "000D6F000D6A1A98",
+                "event": 49,
+                "areaid": "59",
+                "areaname": "Other Door"
+            },
+            {
+                "stamp": 1581611483.645,
+                "macaddress": "000D6F000D6A1A98",
+                "event": 48,
+                "areaid": "59",
+                "areaname": "Other Door"
+            },
+            {
+                "stamp": 1581611431.225,
+                "macaddress": "000D6F000D6A1A98",
+                "event": 49,
+                "areaid": "59",
+                "areaname": "Other Door"
+            },
+            {
+                "stamp": 1581610320.134,
+                "macaddress": "000D6F000D6A1A98",
+                "event": 48,
+                "areaid": "59",
+                "areaname": "Other Door"
+            },
+            {
+                "stamp": 1581603297.66,
+                "macaddress": "000D6F000D6A1A98",
+                "event": 48,
+                "areaid": "59",
+                "areaname": "Other Door"
+            },
+            {
+                "stamp": 1581596274.859,
+                "macaddress": "000D6F000D6A1A98",
+                "event": 48,
+                "areaid": "59",
+                "areaname": "Other Door"
+            }
+        ]
+    },
+    {
+        "itemid": 12462,
+        "itemname": "nyce-c-0619",
+        "serialnumber": "ZBC0619",
+        "macaddress": "000D6F000D6A5D4E",
+        "modelid": 127,
+        "modelname": "NCZ-3011",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 44,
+        "subtypename": "Zigbee / Contact",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581624992.819,
+                "macaddress": "000D6F000D6A5D4E",
+                "event": 48,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624983.625,
+                "macaddress": "000D6F000D6A5D4E",
+                "event": 49,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624939.329,
+                "macaddress": "000D6F000D6A5D4E",
+                "event": 48,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624931.161,
+                "macaddress": "000D6F000D6A5D4E",
+                "event": 49,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624929.34,
+                "macaddress": "000D6F000D6A5D4E",
+                "event": 48,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624925.745,
+                "macaddress": "000D6F000D6A5D4E",
+                "event": 49,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624892.262,
+                "macaddress": "000D6F000D6A5D4E",
+                "event": 48,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624862.436,
+                "macaddress": "000D6F000D6A5D4E",
+                "event": 49,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581622761.103,
+                "macaddress": "000D6F000D6A5D4E",
+                "event": 48,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581622602.249,
+                "macaddress": "000D6F000D6A5D4E",
+                "event": 49,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            }
+        ]
+    },
+    {
+        "itemid": 12470,
+        "itemname": "nyce-c-0627",
+        "serialnumber": "ZBC0627",
+        "macaddress": "000D6F000D6A5AEA",
+        "modelid": 127,
+        "modelname": "NCZ-3011",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 44,
+        "subtypename": "Zigbee / Contact",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581624264.592,
+                "macaddress": "000D6F000D6A5AEA",
+                "event": 48,
+                "areaid": "61",
+                "areaname": "Garage Door"
+            },
+            {
+                "stamp": 1581624160.031,
+                "macaddress": "000D6F000D6A5AEA",
+                "event": 49,
+                "areaid": "61",
+                "areaname": "Garage Door"
+            },
+            {
+                "stamp": 1581618541.335,
+                "macaddress": "000D6F000D6A5AEA",
+                "event": 48,
+                "areaid": "61",
+                "areaname": "Garage Door"
+            },
+            {
+                "stamp": 1581611491.663,
+                "macaddress": "000D6F000D6A5AEA",
+                "event": 48,
+                "areaid": "61",
+                "areaname": "Garage Door"
+            },
+            {
+                "stamp": 1581611349.442,
+                "macaddress": "000D6F000D6A5AEA",
+                "event": 49,
+                "areaid": "61",
+                "areaname": "Garage Door"
+            },
+            {
+                "stamp": 1581610421.471,
+                "macaddress": "000D6F000D6A5AEA",
+                "event": 48,
+                "areaid": "61",
+                "areaname": "Garage Door"
+            },
+            {
+                "stamp": 1581603374.342,
+                "macaddress": "000D6F000D6A5AEA",
+                "event": 48,
+                "areaid": "61",
+                "areaname": "Garage Door"
+            },
+            {
+                "stamp": 1581596326.966,
+                "macaddress": "000D6F000D6A5AEA",
+                "event": 48,
+                "areaid": "61",
+                "areaname": "Garage Door"
+            },
+            {
+                "stamp": 1581595998.202,
+                "macaddress": "000D6F000D6A5AEA",
+                "event": 49,
+                "areaid": "61",
+                "areaname": "Garage Door"
+            },
+            {
+                "stamp": 1581592265.693,
+                "macaddress": "000D6F000D6A5AEA",
+                "event": 48,
+                "areaid": "61",
+                "areaname": "Garage Door"
+            }
+        ]
+    },
+    {
+        "itemid": 12503,
+        "itemname": "nyce-c-0660",
+        "serialnumber": "ZBC0660",
+        "macaddress": "000D6F000D6A25F8",
+        "modelid": 127,
+        "modelname": "NCZ-3011",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 44,
+        "subtypename": "Zigbee / Contact",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581622559.109,
+                "macaddress": "000D6F000D6A25F8",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581622545.868,
+                "macaddress": "000D6F000D6A25F8",
+                "event": 49,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581619591.458,
+                "macaddress": "000D6F000D6A25F8",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581612553.463,
+                "macaddress": "000D6F000D6A25F8",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581612548.099,
+                "macaddress": "000D6F000D6A25F8",
+                "event": 49,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581612460.729,
+                "macaddress": "000D6F000D6A25F8",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581612443.065,
+                "macaddress": "000D6F000D6A25F8",
+                "event": 49,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581612088.285,
+                "macaddress": "000D6F000D6A25F8",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581605050.636,
+                "macaddress": "000D6F000D6A25F8",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581598012.463,
+                "macaddress": "000D6F000D6A25F8",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            }
+        ]
+    },
+    {
+        "itemid": 12507,
+        "itemname": "nyce-c-0664",
+        "serialnumber": "ZBC0664",
+        "macaddress": "000D6F000D6A169B",
+        "modelid": 127,
+        "modelname": "NCZ-3011",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 44,
+        "subtypename": "Zigbee / Contact",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581622986.103,
+                "macaddress": "000D6F000D6A169B",
+                "event": 48,
+                "areaid": "57",
+                "areaname": "Back Door"
+            },
+            {
+                "stamp": 1581622980.474,
+                "macaddress": "000D6F000D6A169B",
+                "event": 49,
+                "areaid": "57",
+                "areaname": "Back Door"
+            },
+            {
+                "stamp": 1581622317.579,
+                "macaddress": "000D6F000D6A169B",
+                "event": 48,
+                "areaid": "57",
+                "areaname": "Back Door"
+            },
+            {
+                "stamp": 1581622293.458,
+                "macaddress": "000D6F000D6A169B",
+                "event": 49,
+                "areaid": "57",
+                "areaname": "Back Door"
+            },
+            {
+                "stamp": 1581622042.66,
+                "macaddress": "000D6F000D6A169B",
+                "event": 48,
+                "areaid": "57",
+                "areaname": "Back Door"
+            },
+            {
+                "stamp": 1581622040.134,
+                "macaddress": "000D6F000D6A169B",
+                "event": 49,
+                "areaid": "57",
+                "areaname": "Back Door"
+            },
+            {
+                "stamp": 1581620081.759,
+                "macaddress": "000D6F000D6A169B",
+                "event": 48,
+                "areaid": "57",
+                "areaname": "Back Door"
+            },
+            {
+                "stamp": 1581613055.337,
+                "macaddress": "000D6F000D6A169B",
+                "event": 48,
+                "areaid": "57",
+                "areaname": "Back Door"
+            },
+            {
+                "stamp": 1581613049.599,
+                "macaddress": "000D6F000D6A169B",
+                "event": 49,
+                "areaid": "57",
+                "areaname": "Back Door"
+            },
+            {
+                "stamp": 1581612844.156,
+                "macaddress": "000D6F000D6A169B",
+                "event": 48,
+                "areaid": "57",
+                "areaname": "Back Door"
+            }
+        ]
+    },
+    {
+        "itemid": 12514,
+        "itemname": "nyce-c-0671",
+        "serialnumber": "ZBC0671",
+        "macaddress": "000D6F000D6A2DE5",
+        "modelid": 127,
+        "modelname": "NCZ-3011",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 44,
+        "subtypename": "Zigbee / Contact",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581623533.773,
+                "macaddress": "000D6F000D6A2DE5",
+                "event": 48,
+                "areaid": "56",
+                "areaname": "Front Door"
+            },
+            {
+                "stamp": 1581616509.16,
+                "macaddress": "000D6F000D6A2DE5",
+                "event": 48,
+                "areaid": "56",
+                "areaname": "Front Door"
+            },
+            {
+                "stamp": 1581609484.786,
+                "macaddress": "000D6F000D6A2DE5",
+                "event": 48,
+                "areaid": "56",
+                "areaname": "Front Door"
+            },
+            {
+                "stamp": 1581602459.944,
+                "macaddress": "000D6F000D6A2DE5",
+                "event": 48,
+                "areaid": "56",
+                "areaname": "Front Door"
+            },
+            {
+                "stamp": 1581595434.648,
+                "macaddress": "000D6F000D6A2DE5",
+                "event": 48,
+                "areaid": "56",
+                "areaname": "Front Door"
+            },
+            {
+                "stamp": 1581588409.771,
+                "macaddress": "000D6F000D6A2DE5",
+                "event": 48,
+                "areaid": "56",
+                "areaname": "Front Door"
+            },
+            {
+                "stamp": 1581581385.256,
+                "macaddress": "000D6F000D6A2DE5",
+                "event": 48,
+                "areaid": "56",
+                "areaname": "Front Door"
+            },
+            {
+                "stamp": 1581574360.49,
+                "macaddress": "000D6F000D6A2DE5",
+                "event": 48,
+                "areaid": "56",
+                "areaname": "Front Door"
+            },
+            {
+                "stamp": 1581567334.94,
+                "macaddress": "000D6F000D6A2DE5",
+                "event": 48,
+                "areaid": "56",
+                "areaname": "Front Door"
+            },
+            {
+                "stamp": 1581560309.191,
+                "macaddress": "000D6F000D6A2DE5",
+                "event": 48,
+                "areaid": "56",
+                "areaname": "Front Door"
+            }
+        ]
+    },
+    {
+        "itemid": 12515,
+        "itemname": "nyce-c-0672",
+        "serialnumber": "ZBC0672",
+        "macaddress": "000D6F000D696BB5",
+        "modelid": 127,
+        "modelname": "NCZ-3011",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 44,
+        "subtypename": "Zigbee / Contact",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581624292.999,
+                "macaddress": "000D6F000D696BB5",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581624282.337,
+                "macaddress": "000D6F000D696BB5",
+                "event": 49,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581622468.397,
+                "macaddress": "000D6F000D696BB5",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581622461.564,
+                "macaddress": "000D6F000D696BB5",
+                "event": 49,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581622062.96,
+                "macaddress": "000D6F000D696BB5",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581622057.144,
+                "macaddress": "000D6F000D696BB5",
+                "event": 49,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581619805.1,
+                "macaddress": "000D6F000D696BB5",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581619801.175,
+                "macaddress": "000D6F000D696BB5",
+                "event": 49,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581619793.709,
+                "macaddress": "000D6F000D696BB5",
+                "event": 48,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            },
+            {
+                "stamp": 1581619789.565,
+                "macaddress": "000D6F000D696BB5",
+                "event": 49,
+                "areaid": "58",
+                "areaname": "Refrigerator"
+            }
+        ]
+    },
+    {
+        "itemid": 13631,
+        "itemname": "nyce-sl-1017",
+        "serialnumber": "ZBSL1017",
+        "macaddress": "000D6F000D69683D",
+        "modelid": 131,
+        "modelname": "NCZ-3045",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 45,
+        "subtypename": "Zigbee / Sensor Line",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581625007.83,
+                "macaddress": "000D6F000D69683D",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624999.797,
+                "macaddress": "000D6F000D69683D",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624860.608,
+                "macaddress": "000D6F000D69683D",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624852.604,
+                "macaddress": "000D6F000D69683D",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624320.362,
+                "macaddress": "000D6F000D69683D",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624312.36,
+                "macaddress": "000D6F000D69683D",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624277.991,
+                "macaddress": "000D6F000D69683D",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624263.922,
+                "macaddress": "000D6F000D69683D",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624256.734,
+                "macaddress": "000D6F000D69683D",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624251.813,
+                "macaddress": "000D6F000D69683D",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            }
+        ]
+    },
+    {
+        "itemid": 13719,
+        "itemname": "nyce-sl-1103",
+        "serialnumber": "ZBSL1103",
+        "macaddress": "000D6F000D6969EF",
+        "modelid": 131,
+        "modelname": "NCZ-3045",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 45,
+        "subtypename": "Zigbee / Sensor Line",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581625001.225,
+                "macaddress": "000D6F000D6969EF",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624858.856,
+                "macaddress": "000D6F000D6969EF",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624850.866,
+                "macaddress": "000D6F000D6969EF",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624338.591,
+                "macaddress": "000D6F000D6969EF",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624333.598,
+                "macaddress": "000D6F000D6969EF",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624322.047,
+                "macaddress": "000D6F000D6969EF",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624314.058,
+                "macaddress": "000D6F000D6969EF",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624275.644,
+                "macaddress": "000D6F000D6969EF",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624261.654,
+                "macaddress": "000D6F000D6969EF",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624258.259,
+                "macaddress": "000D6F000D6969EF",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            }
+        ]
+    },
+    {
+        "itemid": 13754,
+        "itemname": "nyce-sl-1138",
+        "serialnumber": "ZBSL1138",
+        "macaddress": "000D6F000D693515",
+        "modelid": 131,
+        "modelname": "NCZ-3045",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 45,
+        "subtypename": "Zigbee / Sensor Line",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581625008.537,
+                "macaddress": "000D6F000D693515",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581625000.444,
+                "macaddress": "000D6F000D693515",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624859.689,
+                "macaddress": "000D6F000D693515",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624851.688,
+                "macaddress": "000D6F000D693515",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624321.214,
+                "macaddress": "000D6F000D693515",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624313.212,
+                "macaddress": "000D6F000D693515",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624278.049,
+                "macaddress": "000D6F000D693515",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624261.048,
+                "macaddress": "000D6F000D693515",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624258.472,
+                "macaddress": "000D6F000D693515",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624250.931,
+                "macaddress": "000D6F000D693515",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            }
+        ]
+    },
+    {
+        "itemid": 13757,
+        "itemname": "nyce-sl-1141",
+        "serialnumber": "ZBSL1141",
+        "macaddress": "000D6F000D695628",
+        "modelid": 131,
+        "modelname": "NCZ-3045",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 45,
+        "subtypename": "Zigbee / Sensor Line",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581625006.881,
+                "macaddress": "000D6F000D695628",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624998.872,
+                "macaddress": "000D6F000D695628",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624861.449,
+                "macaddress": "000D6F000D695628",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624853.436,
+                "macaddress": "000D6F000D695628",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624319.131,
+                "macaddress": "000D6F000D695628",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624311.122,
+                "macaddress": "000D6F000D695628",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624280.556,
+                "macaddress": "000D6F000D695628",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624269.536,
+                "macaddress": "000D6F000D695628",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624204.744,
+                "macaddress": "000D6F000D695628",
+                "event": 48,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            },
+            {
+                "stamp": 1581624195.82,
+                "macaddress": "000D6F000D695628",
+                "event": 50,
+                "areaid": "63",
+                "areaname": "Sensor Line"
+            }
+        ]
+    },
+    {
+        "itemid": 13802,
+        "itemname": "nyce-sl-1186",
+        "serialnumber": "ZBSL1186",
+        "macaddress": "000D6F000D6A2E3E",
+        "modelid": 131,
+        "modelname": "NCZ-3045",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 45,
+        "subtypename": "Zigbee / Sensor Line",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581619616.225,
+                "macaddress": "000D6F000D6A2E3E",
+                "event": 48,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581619593.231,
+                "macaddress": "000D6F000D6A2E3E",
+                "event": 50,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581619591.651,
+                "macaddress": "000D6F000D6A2E3E",
+                "event": 48,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581619584.071,
+                "macaddress": "000D6F000D6A2E3E",
+                "event": 50,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581619572.999,
+                "macaddress": "000D6F000D6A2E3E",
+                "event": 48,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581619568.019,
+                "macaddress": "000D6F000D6A2E3E",
+                "event": 50,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581617836.995,
+                "macaddress": "000D6F000D6A2E3E",
+                "event": 48,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581617829.023,
+                "macaddress": "000D6F000D6A2E3E",
+                "event": 50,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581617819.884,
+                "macaddress": "000D6F000D6A2E3E",
+                "event": 48,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581617815.572,
+                "macaddress": "000D6F000D6A2E3E",
+                "event": 50,
+                "areaid": 0,
+                "areaname": "Unknown"
+            }
+        ]
+    },
+    {
+        "itemid": 17110,
+        "itemname": "nyce-w-4022",
+        "serialnumber": "ZBW4022",
+        "macaddress": "000D6F000E30BC0C",
+        "modelid": 120,
+        "modelname": "NCZ-3041",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 39,
+        "subtypename": "Zigbee / Wall",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581621916.465,
+                "macaddress": "000D6F000E30BC0C",
+                "event": 48,
+                "areaid": "2",
+                "areaname": "Bathroom 2"
+            },
+            {
+                "stamp": 1581621908.459,
+                "macaddress": "000D6F000E30BC0C",
+                "event": 50,
+                "areaid": "2",
+                "areaname": "Bathroom 2"
+            },
+            {
+                "stamp": 1581621906.023,
+                "macaddress": "000D6F000E30BC0C",
+                "event": 48,
+                "areaid": "2",
+                "areaname": "Bathroom 2"
+            },
+            {
+                "stamp": 1581621901.027,
+                "macaddress": "000D6F000E30BC0C",
+                "event": 50,
+                "areaid": "2",
+                "areaname": "Bathroom 2"
+            },
+            {
+                "stamp": 1581621893.374,
+                "macaddress": "000D6F000E30BC0C",
+                "event": 48,
+                "areaid": "2",
+                "areaname": "Bathroom 2"
+            },
+            {
+                "stamp": 1581621885.365,
+                "macaddress": "000D6F000E30BC0C",
+                "event": 50,
+                "areaid": "2",
+                "areaname": "Bathroom 2"
+            },
+            {
+                "stamp": 1581621873.472,
+                "macaddress": "000D6F000E30BC0C",
+                "event": 48,
+                "areaid": "2",
+                "areaname": "Bathroom 2"
+            },
+            {
+                "stamp": 1581621865.467,
+                "macaddress": "000D6F000E30BC0C",
+                "event": 50,
+                "areaid": "2",
+                "areaname": "Bathroom 2"
+            },
+            {
+                "stamp": 1581619743.316,
+                "macaddress": "000D6F000E30BC0C",
+                "event": 48,
+                "areaid": "2",
+                "areaname": "Bathroom 2"
+            },
+            {
+                "stamp": 1581619735.319,
+                "macaddress": "000D6F000E30BC0C",
+                "event": 50,
+                "areaid": "2",
+                "areaname": "Bathroom 2"
+            }
+        ]
+    },
+    {
+        "itemid": 17211,
+        "itemname": "nyce-w-4109",
+        "serialnumber": "ZBW4109",
+        "macaddress": "000D6F000E30BE0B",
+        "modelid": 120,
+        "modelname": "NCZ-3041",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 39,
+        "subtypename": "Zigbee / Wall",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581621943.95,
+                "macaddress": "000D6F000E30BE0B",
+                "event": 48,
+                "areaid": "20",
+                "areaname": "Hallway 2"
+            },
+            {
+                "stamp": 1581621935.953,
+                "macaddress": "000D6F000E30BE0B",
+                "event": 50,
+                "areaid": "20",
+                "areaname": "Hallway 2"
+            },
+            {
+                "stamp": 1581621864.22,
+                "macaddress": "000D6F000E30BE0B",
+                "event": 48,
+                "areaid": "20",
+                "areaname": "Hallway 2"
+            },
+            {
+                "stamp": 1581621856.227,
+                "macaddress": "000D6F000E30BE0B",
+                "event": 50,
+                "areaid": "20",
+                "areaname": "Hallway 2"
+            },
+            {
+                "stamp": 1581621738.594,
+                "macaddress": "000D6F000E30BE0B",
+                "event": 48,
+                "areaid": "20",
+                "areaname": "Hallway 2"
+            },
+            {
+                "stamp": 1581621721.588,
+                "macaddress": "000D6F000E30BE0B",
+                "event": 50,
+                "areaid": "20",
+                "areaname": "Hallway 2"
+            },
+            {
+                "stamp": 1581619754.29,
+                "macaddress": "000D6F000E30BE0B",
+                "event": 48,
+                "areaid": "20",
+                "areaname": "Hallway 2"
+            },
+            {
+                "stamp": 1581619746.182,
+                "macaddress": "000D6F000E30BE0B",
+                "event": 50,
+                "areaid": "20",
+                "areaname": "Hallway 2"
+            },
+            {
+                "stamp": 1581615043.508,
+                "macaddress": "000D6F000E30BE0B",
+                "event": 48,
+                "areaid": "20",
+                "areaname": "Hallway 2"
+            },
+            {
+                "stamp": 1581615025.643,
+                "macaddress": "000D6F000E30BE0B",
+                "event": 50,
+                "areaid": "20",
+                "areaname": "Hallway 2"
+            }
+        ]
+    },
+    {
+        "itemid": 17213,
+        "itemname": "nyce-w-4111",
+        "serialnumber": "ZBW4111",
+        "macaddress": "000D6F000E301FEA",
+        "modelid": 120,
+        "modelname": "NCZ-3041",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 39,
+        "subtypename": "Zigbee / Wall",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581624131.663,
+                "macaddress": "000D6F000E301FEA",
+                "event": 48,
+                "areaid": "1",
+                "areaname": "Bathroom 1"
+            },
+            {
+                "stamp": 1581624111.683,
+                "macaddress": "000D6F000E301FEA",
+                "event": 50,
+                "areaid": "1",
+                "areaname": "Bathroom 1"
+            },
+            {
+                "stamp": 1581624099.093,
+                "macaddress": "000D6F000E301FEA",
+                "event": 48,
+                "areaid": "1",
+                "areaname": "Bathroom 1"
+            },
+            {
+                "stamp": 1581624087.923,
+                "macaddress": "000D6F000E301FEA",
+                "event": 50,
+                "areaid": "1",
+                "areaname": "Bathroom 1"
+            },
+            {
+                "stamp": 1581621823.478,
+                "macaddress": "000D6F000E301FEA",
+                "event": 48,
+                "areaid": "1",
+                "areaname": "Bathroom 1"
+            },
+            {
+                "stamp": 1581621815.491,
+                "macaddress": "000D6F000E301FEA",
+                "event": 50,
+                "areaid": "1",
+                "areaname": "Bathroom 1"
+            },
+            {
+                "stamp": 1581621700.312,
+                "macaddress": "000D6F000E301FEA",
+                "event": 48,
+                "areaid": "1",
+                "areaname": "Bathroom 1"
+            },
+            {
+                "stamp": 1581621673.915,
+                "macaddress": "000D6F000E301FEA",
+                "event": 50,
+                "areaid": "1",
+                "areaname": "Bathroom 1"
+            },
+            {
+                "stamp": 1581618903.411,
+                "macaddress": "000D6F000E301FEA",
+                "event": 48,
+                "areaid": "1",
+                "areaname": "Bathroom 1"
+            },
+            {
+                "stamp": 1581618889.428,
+                "macaddress": "000D6F000E301FEA",
+                "event": 50,
+                "areaid": "1",
+                "areaname": "Bathroom 1"
+            }
+        ]
+    },
+    {
+        "itemid": 17227,
+        "itemname": "nyce-w-4125",
+        "serialnumber": "ZBW4125",
+        "macaddress": "000D6F000E2F4394",
+        "modelid": 120,
+        "modelname": "NCZ-3041",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 39,
+        "subtypename": "Zigbee / Wall",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581621936.294,
+                "macaddress": "000D6F000E2F4394",
+                "event": 48,
+                "areaid": "21",
+                "areaname": "Hallway 3"
+            },
+            {
+                "stamp": 1581621928.304,
+                "macaddress": "000D6F000E2F4394",
+                "event": 50,
+                "areaid": "21",
+                "areaname": "Hallway 3"
+            },
+            {
+                "stamp": 1581621921.926,
+                "macaddress": "000D6F000E2F4394",
+                "event": 48,
+                "areaid": "21",
+                "areaname": "Hallway 3"
+            },
+            {
+                "stamp": 1581621910.94,
+                "macaddress": "000D6F000E2F4394",
+                "event": 50,
+                "areaid": "21",
+                "areaname": "Hallway 3"
+            },
+            {
+                "stamp": 1581621904.91,
+                "macaddress": "000D6F000E2F4394",
+                "event": 48,
+                "areaid": "21",
+                "areaname": "Hallway 3"
+            },
+            {
+                "stamp": 1581621887.931,
+                "macaddress": "000D6F000E2F4394",
+                "event": 50,
+                "areaid": "21",
+                "areaname": "Hallway 3"
+            },
+            {
+                "stamp": 1581621871.282,
+                "macaddress": "000D6F000E2F4394",
+                "event": 48,
+                "areaid": "21",
+                "areaname": "Hallway 3"
+            },
+            {
+                "stamp": 1581621863.287,
+                "macaddress": "000D6F000E2F4394",
+                "event": 50,
+                "areaid": "21",
+                "areaname": "Hallway 3"
+            },
+            {
+                "stamp": 1581619746.442,
+                "macaddress": "000D6F000E2F4394",
+                "event": 48,
+                "areaid": "21",
+                "areaname": "Hallway 3"
+            },
+            {
+                "stamp": 1581619738.422,
+                "macaddress": "000D6F000E2F4394",
+                "event": 50,
+                "areaid": "21",
+                "areaname": "Hallway 3"
+            }
+        ]
+    },
+    {
+        "itemid": 17287,
+        "itemname": "nyce-w-4185",
+        "serialnumber": "ZBW4185",
+        "macaddress": "000D6F000E303D77",
+        "modelid": 120,
+        "modelname": "NCZ-3041",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 39,
+        "subtypename": "Zigbee / Wall",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581621914.026,
+                "macaddress": "000D6F000E303D77",
+                "event": 48,
+                "areaid": "4",
+                "areaname": "Bedroom 1"
+            },
+            {
+                "stamp": 1581621903.088,
+                "macaddress": "000D6F000E303D77",
+                "event": 50,
+                "areaid": "4",
+                "areaname": "Bedroom 1"
+            },
+            {
+                "stamp": 1581621891.425,
+                "macaddress": "000D6F000E303D77",
+                "event": 48,
+                "areaid": "4",
+                "areaname": "Bedroom 1"
+            },
+            {
+                "stamp": 1581621871.436,
+                "macaddress": "000D6F000E303D77",
+                "event": 50,
+                "areaid": "4",
+                "areaname": "Bedroom 1"
+            },
+            {
+                "stamp": 1581619739.806,
+                "macaddress": "000D6F000E303D77",
+                "event": 48,
+                "areaid": "4",
+                "areaname": "Bedroom 1"
+            },
+            {
+                "stamp": 1581619661.434,
+                "macaddress": "000D6F000E303D77",
+                "event": 50,
+                "areaid": "4",
+                "areaname": "Bedroom 1"
+            },
+            {
+                "stamp": 1581619660.344,
+                "macaddress": "000D6F000E303D77",
+                "event": 48,
+                "areaid": "4",
+                "areaname": "Bedroom 1"
+            },
+            {
+                "stamp": 1581619649.133,
+                "macaddress": "000D6F000E303D77",
+                "event": 50,
+                "areaid": "4",
+                "areaname": "Bedroom 1"
+            },
+            {
+                "stamp": 1581619629.87,
+                "macaddress": "000D6F000E303D77",
+                "event": 48,
+                "areaid": "4",
+                "areaname": "Bedroom 1"
+            },
+            {
+                "stamp": 1581619609.865,
+                "macaddress": "000D6F000E303D77",
+                "event": 50,
+                "areaid": "4",
+                "areaname": "Bedroom 1"
+            }
+        ]
+    },
+    {
+        "itemid": 17532,
+        "itemname": "nyce-w-4386",
+        "serialnumber": "ZBW4386",
+        "macaddress": "000D6F000E2F5471",
+        "modelid": 120,
+        "modelname": "NCZ-3041",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 39,
+        "subtypename": "Zigbee / Wall",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581625003.719,
+                "macaddress": "000D6F000E2F5471",
+                "event": 48,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624992.95,
+                "macaddress": "000D6F000E2F5471",
+                "event": 50,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624992.148,
+                "macaddress": "000D6F000E2F5471",
+                "event": 48,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624952.12,
+                "macaddress": "000D6F000E2F5471",
+                "event": 50,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624949.948,
+                "macaddress": "000D6F000E2F5471",
+                "event": 48,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624941.956,
+                "macaddress": "000D6F000E2F5471",
+                "event": 50,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624928.59,
+                "macaddress": "000D6F000E2F5471",
+                "event": 48,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624915.141,
+                "macaddress": "000D6F000E2F5471",
+                "event": 50,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624915.07,
+                "macaddress": "000D6F000E2F5471",
+                "event": 48,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            },
+            {
+                "stamp": 1581624913.151,
+                "macaddress": "000D6F000E2F5471",
+                "event": 50,
+                "areaid": "23",
+                "areaname": "Kitchen 1"
+            }
+        ]
+    },
+    {
+        "itemid": 17544,
+        "itemname": "nyce-w-4398",
+        "serialnumber": "ZBW4398",
+        "macaddress": "000D6F000E30BCDA",
+        "modelid": 120,
+        "modelname": "NCZ-3041",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 39,
+        "subtypename": "Zigbee / Wall",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581625007.68,
+                "macaddress": "000D6F000E30BCDA",
+                "event": 48,
+                "areaid": "13",
+                "areaname": "Dining Room 1"
+            },
+            {
+                "stamp": 1581624996.64,
+                "macaddress": "000D6F000E30BCDA",
+                "event": 50,
+                "areaid": "13",
+                "areaname": "Dining Room 1"
+            },
+            {
+                "stamp": 1581624986.514,
+                "macaddress": "000D6F000E30BCDA",
+                "event": 48,
+                "areaid": "13",
+                "areaname": "Dining Room 1"
+            },
+            {
+                "stamp": 1581624978.517,
+                "macaddress": "000D6F000E30BCDA",
+                "event": 50,
+                "areaid": "13",
+                "areaname": "Dining Room 1"
+            },
+            {
+                "stamp": 1581624865.676,
+                "macaddress": "000D6F000E30BCDA",
+                "event": 48,
+                "areaid": "13",
+                "areaname": "Dining Room 1"
+            },
+            {
+                "stamp": 1581624854.676,
+                "macaddress": "000D6F000E30BCDA",
+                "event": 50,
+                "areaid": "13",
+                "areaname": "Dining Room 1"
+            },
+            {
+                "stamp": 1581624320.055,
+                "macaddress": "000D6F000E30BCDA",
+                "event": 48,
+                "areaid": "13",
+                "areaname": "Dining Room 1"
+            },
+            {
+                "stamp": 1581624309.056,
+                "macaddress": "000D6F000E30BCDA",
+                "event": 50,
+                "areaid": "13",
+                "areaname": "Dining Room 1"
+            },
+            {
+                "stamp": 1581624282.106,
+                "macaddress": "000D6F000E30BCDA",
+                "event": 48,
+                "areaid": "13",
+                "areaname": "Dining Room 1"
+            },
+            {
+                "stamp": 1581624271.107,
+                "macaddress": "000D6F000E30BCDA",
+                "event": 50,
+                "areaid": "13",
+                "areaname": "Dining Room 1"
+            }
+        ]
+    },
+    {
+        "itemid": 19403,
+        "itemname": "nyce-sl-2040",
+        "serialnumber": "ZBSL2040",
+        "macaddress": "000D6F000EB08E46",
+        "modelid": 131,
+        "modelname": "NCZ-3045",
+        "subjectspecific": 0,
+        "vendorid": 52,
+        "vendorname": "NYCE Controls",
+        "typeid": 10,
+        "typename": "Activity Sensors",
+        "subtypeid": 45,
+        "subtypename": "Zigbee / Sensor Line",
+        "batterymonths": 12,
+        "hasbatteries": 1,
+        "events": [
+            {
+                "stamp": 1581619607.805,
+                "macaddress": "000D6F000EB08E46",
+                "event": 48,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581619602.827,
+                "macaddress": "000D6F000EB08E46",
+                "event": 50,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581619601.672,
+                "macaddress": "000D6F000EB08E46",
+                "event": 48,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581619596.694,
+                "macaddress": "000D6F000EB08E46",
+                "event": 50,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581619588.384,
+                "macaddress": "000D6F000EB08E46",
+                "event": 48,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581619583.402,
+                "macaddress": "000D6F000EB08E46",
+                "event": 50,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581617834.638,
+                "macaddress": "000D6F000EB08E46",
+                "event": 48,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581617829.666,
+                "macaddress": "000D6F000EB08E46",
+                "event": 50,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581617814.119,
+                "macaddress": "000D6F000EB08E46",
+                "event": 48,
+                "areaid": 0,
+                "areaname": "Unknown"
+            },
+            {
+                "stamp": 1581617804.45,
+                "macaddress": "000D6F000EB08E46",
+                "event": 50,
+                "areaid": 0,
+                "areaname": "Unknown"
+            }
+        ]
+    }
+]

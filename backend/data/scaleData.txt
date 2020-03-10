@@ -1,0 +1,65 @@
+[
+    {
+        "stamp": 1575988938,
+        "weight": 68610,
+        "fatmass": null,
+        "watermass": null,
+        "bonemass": null,
+        "musclemass": null,
+        "batterylevel": 0
+    },
+    {
+        "stamp": 1575382909,
+        "weight": 68380,
+        "fatmass": null,
+        "watermass": null,
+        "bonemass": null,
+        "musclemass": null,
+        "batterylevel": 0
+    },
+    {
+        "stamp": 1575125677,
+        "weight": 69368,
+        "fatmass": null,
+        "watermass": null,
+        "bonemass": null,
+        "musclemass": null,
+        "batterylevel": 0
+    },
+    {
+        "stamp": 1574949239,
+        "weight": 69323,
+        "fatmass": null,
+        "watermass": null,
+        "bonemass": null,
+        "musclemass": null,
+        "batterylevel": 0
+    },
+    {
+        "stamp": 1574682863,
+        "weight": 68790,
+        "fatmass": null,
+        "watermass": null,
+        "bonemass": null,
+        "musclemass": null,
+        "batterylevel": 0
+    },
+    {
+        "stamp": 1574356803,
+        "weight": 86182,
+        "fatmass": null,
+        "watermass": null,
+        "bonemass": null,
+        "musclemass": null,
+        "batterylevel": 0
+    },
+    {
+        "stamp": 1574356743,
+        "weight": 72121,
+        "fatmass": null,
+        "watermass": null,
+        "bonemass": null,
+        "musclemass": null,
+        "batterylevel": 0
+    }
+]
