@@ -88,11 +88,12 @@ func getMicroWaveSensorData(h http.HandlerFunc) http.HandlerFunc {
 		defer content.Close()
 
 		type Door struct {
-			Dayofweek  int    `json:"dayofweek"`
+			DayofWeek  int    `json:"dayofweek"`
 			Day        int    `json:"day"`
 			Month      int    `json:"month"`
 			Year       int    `json:"year"`
 			Doorstatus string `json:"doorstatus"`
+			Count      int    `json:"count"`
 		}
 
 		var doors []Door
@@ -102,14 +103,19 @@ func getMicroWaveSensorData(h http.HandlerFunc) http.HandlerFunc {
 				break
 			}
 			timestamp, _ := strconv.ParseInt(line[4], 10, 64)
+
 			if timestamp > int64(starttime) && timestamp < int64(endtime) {
+				//fmt.Println(time.Unix(int64(timestamp), 0))
+
 				if status == "" || line[12] == status {
+					// fmt.Println(time.Now())
 					doors = append(doors, Door{
-						Dayofweek:  int(time.Unix(timestamp, 0).Weekday()),
-						Day:        time.Unix(timestamp, 0).Day(),
-						Month:      int(time.Unix(timestamp, 0).Month()),
-						Year:       time.Unix(timestamp, 0).Year(),
+						DayofWeek:  int(time.Unix(timestamp/1000, timestamp%1000).Weekday()),
+						Day:        time.Unix(timestamp/1000, timestamp%1000).Day(),
+						Month:      int(time.Unix(timestamp/1000, timestamp%1000).Month()),
+						Year:       time.Unix(timestamp/1000, timestamp%1000).Year(),
 						Doorstatus: line[12],
+						Count:      -1,
 					})
 				}
 			}
